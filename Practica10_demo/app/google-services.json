@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "616304552233",
+    "project_id": "practica10-d03c4",
+    "storage_bucket": "practica10-d03c4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616304552233:android:8e63c7b568328c3e4c6f38",
+        "android_client_info": {
+          "package_name": "zamora.jorge.practica10_demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwJT-XeRDEfbw36kV6ZBs2ssyMwjzuf-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
