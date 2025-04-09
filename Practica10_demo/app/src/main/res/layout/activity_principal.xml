@@ -83,6 +83,7 @@
         android:layout_gravity="center"
         android:text="Login with Google"
         android:backgroundTint="@color/black"
+        android:textColor="@color/white"
         />
 
 </LinearLayout>

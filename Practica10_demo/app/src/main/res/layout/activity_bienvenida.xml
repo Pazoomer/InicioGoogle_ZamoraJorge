@@ -46,6 +46,7 @@
         android:backgroundTint="@color/black"
         android:layout_gravity="center"
         android:text="Salir"
+        android:textColor="@color/white"
         />
 
 </LinearLayout>
